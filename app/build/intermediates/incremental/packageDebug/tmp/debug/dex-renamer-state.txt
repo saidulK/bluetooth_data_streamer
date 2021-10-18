@@ -1,0 +1,4 @@
+#Mon Oct 18 23:35:19 BDT 2021
+base.0=G\:\\MyBluetoothSensor\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

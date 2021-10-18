@@ -1,0 +1,265 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml:2:1-43:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.3] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\7a4d763f89c220e77bff50b7c6b03c45\navigation-fragment-ktx-2.3.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\2b0f66982d0c7bf91b6545dc6b3b7edc\jetified-fragment-ktx-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.3] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\c4fbd0299bb8ce0292c1d002cac3d99d\navigation-ui-ktx-2.3.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.3] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\92ec46a9afac03ef51abcbbd0381daf9\navigation-runtime-ktx-2.3.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.3] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\c1725da04a57aa3a8444397324950da6\navigation-common-ktx-2.3.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\cb2c142d79604646c89f5c60f9c25694\jetified-activity-ktx-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\80913f19362e1a0d5ec8f7f58d86b550\jetified-core-ktx-1.3.2\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\43a917f9534cb05f0a20bd294163eceb\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\5e32c8fd620a1e6362de798fd9dd015f\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\334d8ef66280a3992eca002228faf8de\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.3.3] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\84d8ed50b938f5a79f79ad370a5caefa\navigation-ui-2.3.3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\71306626bd137f0c5c58610166486e61\material-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\ba0ed6b90ecdbadb94c34186e81cdf42\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\4e039017508058e03141616af225b4eb\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\b5466dcfe12488b715be006750d7ab23\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\9851228a28131c6e079209b1996b47a5\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\a95c327e53d3f8b7c448585ab391c496\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\4641752ec657f9b4a42d6a06f25d7d22\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\4105de63edbfe1f7a89f44426cee4e60\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\484b16f1e5940703d264a70e13a14e3d\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\76e2c37ae32353ccc0fe554bfc39f522\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\17f3264973adbc27bc15b903e97c2276\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.3] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\fc0e6822b7159705efec9cd35d31e959\navigation-fragment-2.3.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\a9b4723696d45ce778f997adc687fa67\fragment-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\d2749d90a035347265104c21ab01820f\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\c12747f68fadffbb0e0ad871896b687f\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\19cd27f85495db43b8cae171f6ebeaf7\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\e4893b92f6ed8aa1b859d89c323a0581\transition-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\6f621cac338d61e4657df2851636b5fa\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.3] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\60b8f0a1f152536533e90a851a15caa0\navigation-runtime-2.3.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\07fffc4e66e9051edb002e23eddf3cce\jetified-activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.3.3] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\0a50189ea7923b59b66bfc8ac67573a1\navigation-common-2.3.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.2] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\81112976e9a5a57f038e5cfed90af170\core-1.3.2\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\22f084678c0c8123034752ff82b9a006\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\ae0d43a8cd9e2d0dca0ee7612d373384\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\6118f679eabfffe3c12f082544a87853\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\df6b5736251feddbeaec3e406afdbc4d\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\ff664a25e1391f1156cfb2e2374c7147\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\6ba1de9be899b775fb2e622bcf9ee329\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\7ab9174479fb69088763d43ae7121c6c\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\f99660dd63e7ed3a1e117a2af2f25bf8\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\0a9c6c10530aac001e1e59b7495bfbcb\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\aa817d39ca4f9f9f764e5a0b70163814\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\7d6e7d8b4768dffce85856eb040e0ba1\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\b77732ae052c8a7beadaefc4f5cc2d1b\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\31435e025cdccb9fb8afecf6a35971cd\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\ca6f5dc978f1f081f1b8afbaed8e2aeb\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\541c09a69b824cc7c223abe4277f4942\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml
+		INJECTED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml
+		ADDED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml:2:1-43:12
+		INJECTED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml
+		ADDED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml:2:1-43:12
+		INJECTED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml:5:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml:6:5-74
+	android:name
+		ADDED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml:6:22-71
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml:9:5-77
+	android:name
+		ADDED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml:9:22-74
+permission#android.permission.BLUETOOTH
+ADDED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml:11:5-13:37
+	android:label
+		ADDED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml:13:9-34
+	android:name
+		ADDED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml:12:9-52
+permission#android.permission.BLUETOOTH_ADMIN
+ADDED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml:14:5-69
+	android:name
+		ADDED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml:14:17-66
+permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml:15:5-74
+	android:name
+		ADDED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml:15:17-71
+permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml:16:17-73
+application
+ADDED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml:18:5-41:19
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\71306626bd137f0c5c58610166486e61\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\71306626bd137f0c5c58610166486e61\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\ba0ed6b90ecdbadb94c34186e81cdf42\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\ba0ed6b90ecdbadb94c34186e81cdf42\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.2] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\81112976e9a5a57f038e5cfed90af170\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\81112976e9a5a57f038e5cfed90af170\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\6118f679eabfffe3c12f082544a87853\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\6118f679eabfffe3c12f082544a87853\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\81112976e9a5a57f038e5cfed90af170\core-1.3.2\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml:23:9-35
+	android:label
+		ADDED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml:21:9-41
+	android:roundIcon
+		ADDED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml:22:9-45
+	android:icon
+		ADDED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml:20:9-40
+	android:allowBackup
+		ADDED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml:24:9-40
+activity#com.example.mybluetoothsensor.DeviceListActivity
+ADDED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml:28:9-31:59
+	android:label
+		ADDED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml:30:13-63
+	android:theme
+		ADDED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml:31:13-56
+	android:name
+		ADDED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml:29:13-47
+activity#com.example.mybluetoothsensor.MainActivity
+ADDED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml:32:9-38:20
+	android:name
+		ADDED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml:32:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml:33:13-37:29
+action#android.intent.action.MAIN
+ADDED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml:36:27-74
+uses-sdk
+INJECTED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml
+INJECTED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.3] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\7a4d763f89c220e77bff50b7c6b03c45\navigation-fragment-ktx-2.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.3] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\7a4d763f89c220e77bff50b7c6b03c45\navigation-fragment-ktx-2.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\2b0f66982d0c7bf91b6545dc6b3b7edc\jetified-fragment-ktx-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\2b0f66982d0c7bf91b6545dc6b3b7edc\jetified-fragment-ktx-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.3] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\c4fbd0299bb8ce0292c1d002cac3d99d\navigation-ui-ktx-2.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.3] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\c4fbd0299bb8ce0292c1d002cac3d99d\navigation-ui-ktx-2.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.3] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\92ec46a9afac03ef51abcbbd0381daf9\navigation-runtime-ktx-2.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.3] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\92ec46a9afac03ef51abcbbd0381daf9\navigation-runtime-ktx-2.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.3] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\c1725da04a57aa3a8444397324950da6\navigation-common-ktx-2.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.3] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\c1725da04a57aa3a8444397324950da6\navigation-common-ktx-2.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\cb2c142d79604646c89f5c60f9c25694\jetified-activity-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\cb2c142d79604646c89f5c60f9c25694\jetified-activity-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\80913f19362e1a0d5ec8f7f58d86b550\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\80913f19362e1a0d5ec8f7f58d86b550\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\43a917f9534cb05f0a20bd294163eceb\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\43a917f9534cb05f0a20bd294163eceb\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\5e32c8fd620a1e6362de798fd9dd015f\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\5e32c8fd620a1e6362de798fd9dd015f\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\334d8ef66280a3992eca002228faf8de\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\334d8ef66280a3992eca002228faf8de\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.3] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\84d8ed50b938f5a79f79ad370a5caefa\navigation-ui-2.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.3] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\84d8ed50b938f5a79f79ad370a5caefa\navigation-ui-2.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\71306626bd137f0c5c58610166486e61\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\71306626bd137f0c5c58610166486e61\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\ba0ed6b90ecdbadb94c34186e81cdf42\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\ba0ed6b90ecdbadb94c34186e81cdf42\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\4e039017508058e03141616af225b4eb\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\4e039017508058e03141616af225b4eb\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\b5466dcfe12488b715be006750d7ab23\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\b5466dcfe12488b715be006750d7ab23\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\9851228a28131c6e079209b1996b47a5\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\9851228a28131c6e079209b1996b47a5\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\a95c327e53d3f8b7c448585ab391c496\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\a95c327e53d3f8b7c448585ab391c496\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\4641752ec657f9b4a42d6a06f25d7d22\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\4641752ec657f9b4a42d6a06f25d7d22\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\4105de63edbfe1f7a89f44426cee4e60\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\4105de63edbfe1f7a89f44426cee4e60\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\484b16f1e5940703d264a70e13a14e3d\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\484b16f1e5940703d264a70e13a14e3d\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\76e2c37ae32353ccc0fe554bfc39f522\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\76e2c37ae32353ccc0fe554bfc39f522\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\17f3264973adbc27bc15b903e97c2276\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\17f3264973adbc27bc15b903e97c2276\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.3] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\fc0e6822b7159705efec9cd35d31e959\navigation-fragment-2.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.3] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\fc0e6822b7159705efec9cd35d31e959\navigation-fragment-2.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\a9b4723696d45ce778f997adc687fa67\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\a9b4723696d45ce778f997adc687fa67\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\d2749d90a035347265104c21ab01820f\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\d2749d90a035347265104c21ab01820f\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\c12747f68fadffbb0e0ad871896b687f\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\c12747f68fadffbb0e0ad871896b687f\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\19cd27f85495db43b8cae171f6ebeaf7\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\19cd27f85495db43b8cae171f6ebeaf7\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\e4893b92f6ed8aa1b859d89c323a0581\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\e4893b92f6ed8aa1b859d89c323a0581\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\6f621cac338d61e4657df2851636b5fa\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\6f621cac338d61e4657df2851636b5fa\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.3.3] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\60b8f0a1f152536533e90a851a15caa0\navigation-runtime-2.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.3] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\60b8f0a1f152536533e90a851a15caa0\navigation-runtime-2.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\07fffc4e66e9051edb002e23eddf3cce\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\07fffc4e66e9051edb002e23eddf3cce\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.3] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\0a50189ea7923b59b66bfc8ac67573a1\navigation-common-2.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.3] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\0a50189ea7923b59b66bfc8ac67573a1\navigation-common-2.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\81112976e9a5a57f038e5cfed90af170\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\81112976e9a5a57f038e5cfed90af170\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\22f084678c0c8123034752ff82b9a006\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\22f084678c0c8123034752ff82b9a006\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\ae0d43a8cd9e2d0dca0ee7612d373384\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\ae0d43a8cd9e2d0dca0ee7612d373384\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\6118f679eabfffe3c12f082544a87853\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\6118f679eabfffe3c12f082544a87853\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\df6b5736251feddbeaec3e406afdbc4d\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\df6b5736251feddbeaec3e406afdbc4d\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\ff664a25e1391f1156cfb2e2374c7147\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\ff664a25e1391f1156cfb2e2374c7147\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\6ba1de9be899b775fb2e622bcf9ee329\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\6ba1de9be899b775fb2e622bcf9ee329\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\7ab9174479fb69088763d43ae7121c6c\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\7ab9174479fb69088763d43ae7121c6c\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\f99660dd63e7ed3a1e117a2af2f25bf8\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\f99660dd63e7ed3a1e117a2af2f25bf8\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\0a9c6c10530aac001e1e59b7495bfbcb\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\0a9c6c10530aac001e1e59b7495bfbcb\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\aa817d39ca4f9f9f764e5a0b70163814\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\aa817d39ca4f9f9f764e5a0b70163814\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\7d6e7d8b4768dffce85856eb040e0ba1\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\7d6e7d8b4768dffce85856eb040e0ba1\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\b77732ae052c8a7beadaefc4f5cc2d1b\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\b77732ae052c8a7beadaefc4f5cc2d1b\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\31435e025cdccb9fb8afecf6a35971cd\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\31435e025cdccb9fb8afecf6a35971cd\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\ca6f5dc978f1f081f1b8afbaed8e2aeb\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\ca6f5dc978f1f081f1b8afbaed8e2aeb\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\541c09a69b824cc7c223abe4277f4942\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Kabirs\.gradle\caches\transforms-2\files-2.1\541c09a69b824cc7c223abe4277f4942\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml
+INJECTED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml
+		ADDED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml
+		INJECTED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml
+		ADDED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml
+		INJECTED from G:\MyBluetoothSensor\app\src\main\AndroidManifest.xml
